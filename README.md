@@ -1,5 +1,3 @@
-[![Website](https://img.shields.io/website?label=pocitacebezucha.cz&style=flat&logo=appveyor)](https://pocitacebezucha.cz)
-
 ### 👋 Hi, I’m @setam03 - Martin Václav Bezucha
 
 - 👀 I’m interested in Web Dev and some C# coding
