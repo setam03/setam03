@@ -7,12 +7,15 @@
 - 🌱 I’m curetlly in High school
 - 📫 How to reach me: info@pocitacebezucha.cz
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="pocitacebezucha.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="setam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="martinbezucha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
 ### Languages and Tools:
 
