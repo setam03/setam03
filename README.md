@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=pocitacebezucha.cz)](https://pocitacebezucha.cz)
+[![Website](https://img.shields.io/website?label=pocitacebezucha.cz&style=flat&logo=appveyor)](https://pocitacebezucha.cz)
 
 ### 👋 Hi, I’m @setam03 - Martin Václav Bezucha
 
