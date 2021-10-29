@@ -1,13 +1,11 @@
-### 👋 Hi, I’m @setam03 - Martin Václav Bezucha
+[![Website](https://img.shields.io/website?label=pocitacebezucha.cz)](https://pocitacebezucha.cz)
 
-[![Website](https://img.shields.io/website?label=pocitacebezucha.cz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pocitacebezucha.cz)
+### 👋 Hi, I’m @setam03 - Martin Václav Bezucha
 
 - 👀 I’m interested in Web Dev and some C# coding
 - 🔭 I’m currently working on starting my web dev company
 - 🌱 I’m curetlly in High school
 - 📫 How to reach me: info@pocitacebezucha.cz
-
-<br />
 
 ### Connect with me:
 
